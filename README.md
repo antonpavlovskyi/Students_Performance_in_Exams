@@ -16,6 +16,7 @@ There are no specific requirements to run and explore this project. Python 3.8.5
 - pandas
 - seaborn
 - numpy
+- pylab
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -28,7 +29,7 @@ Using dataset from Kaggle I wanted to answer the following questions using diffe
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebook available above which answers the above mentioned questions. There is also a downloaded copy of the dataset from Kaggle (version as of 20/04/2021)
+There is 1 notebook available above which answers the above mentioned questions. There is also a downloaded copy of the dataset from Kaggle (version as of 20/04/2021).
 
 ## Results<a name="results"></a>
 
